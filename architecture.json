@@ -1,0 +1,160 @@
+{
+  "book_id": "enlightenment-scottish-epistolary-power-corruption",
+  "title": "The Architecture of Silences",
+  "tagline": "In the Highlands, power is built not on stone, but on the letters you write and the secrets you keep.",
+  "target_words": 70000,
+  "actual_words": 70653,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Corruption of Civic Idealism",
+    "Epistolary Power & Blackmail",
+    "The Myth vs. Reality of Scottish Heritage",
+    "The Bureaucratic Machinery of Greed"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Letter",
+      "words": 2944
+    },
+    {
+      "ch": 2,
+      "title": "The Civic Mask",
+      "words": 2944
+    },
+    {
+      "ch": 3,
+      "title": "The Bothy",
+      "words": 2944
+    },
+    {
+      "ch": 4,
+      "title": "The Archivist's Sampler",
+      "words": 2944
+    },
+    {
+      "ch": 5,
+      "title": "A History in Invisible Ink",
+      "words": 2944
+    },
+    {
+      "ch": 6,
+      "title": "Consultancy Fees",
+      "words": 2944
+    },
+    {
+      "ch": 7,
+      "title": "The First Subscription",
+      "words": 2944
+    },
+    {
+      "ch": 8,
+      "title": "Ferguson's Ghost",
+      "words": 2944
+    },
+    {
+      "ch": 9,
+      "title": "Elspeth's Dough",
+      "words": 2944
+    },
+    {
+      "ch": 10,
+      "title": "The Grain Store Vote",
+      "words": 2944
+    },
+    {
+      "ch": 11,
+      "title": "Shell Companies",
+      "words": 2944
+    },
+    {
+      "ch": 12,
+      "title": "The Defunct School of Arts",
+      "words": 2944
+    },
+    {
+      "ch": 13,
+      "title": "A Second Letter",
+      "words": 2944
+    },
+    {
+      "ch": 14,
+      "title": "The Press & Journal",
+      "words": 2944
+    },
+    {
+      "ch": 15,
+      "title": "The Balblair Bequest",
+      "words": 2944
+    },
+    {
+      "ch": 16,
+      "title": "Creative Cartography",
+      "words": 2944
+    },
+    {
+      "ch": 17,
+      "title": "Duncan's Ultimatum",
+      "words": 2944
+    },
+    {
+      "ch": 18,
+      "title": "The Boy in the Beanie",
+      "words": 2944
+    },
+    {
+      "ch": 19,
+      "title": "The Full Symphony",
+      "words": 2944
+    },
+    {
+      "ch": 20,
+      "title": "Haar and Hiss",
+      "words": 2944
+    },
+    {
+      "ch": 21,
+      "title": "Complicit Nods",
+      "words": 2944
+    },
+    {
+      "ch": 22,
+      "title": "The Archivist's Terms",
+      "words": 2944
+    },
+    {
+      "ch": 23,
+      "title": "The Unwritten Report",
+      "words": 2944
+    },
+    {
+      "ch": 24,
+      "title": "Yours, In Anticipation",
+      "words": 2945
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write the full text of the Archivist's second letter, detailing another 'neat trick' of the Trust.",
+      "Compose a diary entry from Elspeth's perspective, revealing what she suspects about her husband's late meetings.",
+      "Draft the 'particularly rigorous' failing essay from the boy in the beanie, critiquing MacLeod's interpretation of civic virtue.",
+      "Write the official Trust press release 'mourning' the closing of the Sutherland School of Traditional Arts, full of double meaning."
+    ],
+    "technical": [
+      "Build an interactive map of Sutherland plotting the Trust's acquisitions, sales, and 'community projects' to visualize the corruption.",
+      "Create a web-based 'Epistolary Engine' that generates threatening, period-appropriate anonymous letters in the style of the Archivist."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Robert Louis Stevenson",
+      "Muriel Spark",
+      "Niccolò Machiavelli",
+      "John le Carré"
+    ]
+  },
+  "cover_prompt": "A single, weathered quill pen, its nib stained with dark ink, lies diagonally across a torn and partially burned letter on a polished mahogany desk, the visible words fading into ash, [Detailed Scene & Context: surrounding the central item are the tools of bureaucratic power and hidden influence: a heavy wax seal stamped with a thistle motif sits beside a melted candle, a ledger lies open revealing columns of figures, and in the blurred background, the ghostly, imposing silhouette of a neoclassical Edinburgh building is seen through a rain-streaked window], [Artistic Style & Medium: in the atmospheric and psychologically charged style of Anselm Kiefer, with the textured, material-heavy gravitas of a Gerhard Richter painting, combining historical weight with abstract unease, rendered in thick, expressive oil paints and mixed media on rough canvas], [Composition & Camera: book cover framing, an extreme close-up with a dramatic, Dutch-angle tilt that creates instability, the composition centered on the pen as a destructive axis, with layered elements suggesting depth and hidden narratives], [Lighting & Color Palette: dramatic chiaroscuro lighting from a single low light source, casting long, distorted shadows, within a somber palette of peat brown, charcoal grey, weathered parchment yellow, and deep ink blue, with accents of tarnished gold and the stark white of the torn paper], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
