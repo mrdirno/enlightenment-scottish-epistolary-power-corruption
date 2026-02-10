@@ -1,6 +1,15 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
-The letter arrived on a Tuesday, smelling of peat smoke and other people’s hands. I found it on the hall table, propped against the ugly brass lamp my wife had insisted was ‘characterful’. The envelope was thick, cream, the address written in a looping, aggressive script that seemed to press right through the paper. No stamp. Just my name: *Mr. Alistair MacLeod*. Not *Dr.*, though the university used it. Not *Councillor*, though the party preferred it. Just the name I was born with, inked with a certainty that felt like a challenge.
+Edinburgh’s new gas lamps gutter, casting long, grasping shadows across the High Street. My dearest cousin, forgive the ink—my hand shakes not from the cold, but from the vote tonight. We have harnessed light to banish the dark, yet I find myself wondering what new forms of shadow such power creates.
+
+
+My dear Lord Selkirk,
+
+Forgive the presumption of this unsolicited correspondence, but the matter presses upon my conscience with the weight of a millstone. The vote you secured for the canal bill was not, as you believed, a triumph of reasoned debate. I witnessed the exchange in the close behind the Parliament House: a purse of sovereigns for aye, a threat against a man’s creditors for nay. You have purchased a ditch, my lord, but I fear you have sold something far greater.
+
+
 
 I slit it open with my thumb, a shower of paper fibres catching under my nail.
 
@@ -131,6 +140,8 @@ I finally stood, my joints stiff. Outside, the haar had thickened. I could see n
 A thought formed, clear and sharp as a shard of glass: *To find a ghost, you must first become one.* I pulled my collar up and vanished into the fog.
 
 ---
+# Chapter 2
+
 ## **CHAPTER 2**
 
 The archive of the *Press & Journal* was a cathedral to forgotten news. It resided in a fluorescent-lit basement off Union Street in Aberdeen, smelling of dust, decaying newsprint, and the faint, sweet tang of rodent. I’d given the librarian, a desiccated man named Mr. Dalziel, my prepared story: research for a monograph on the rhetoric of post-devolution land advocacy. He’d blinked slowly, as if processing a request in a dead language, then pointed a bony finger towards the microfilm readers.
@@ -274,6 +285,8 @@ The blackmailer wasn’t a ghost. They were a keeper. A curator of ruin. And in 
 I had to be here when they did.
 
 ---
+# Chapter 3
+
 ## **CHAPTER 3**
 
 Elspeth was waiting up. The soft light from the standard lamp in the living room haloed her as she pretended to read a novel. I saw her eyes track me as I hung my dripping jacket in the hall, taking in the mud on my trousers, the hollows under my eyes.
